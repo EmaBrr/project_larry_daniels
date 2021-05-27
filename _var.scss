@@ -1,0 +1,80 @@
+// Font Families 
+
+$font1: 'Montserrat', sans-serif;   // ← Used in titles "about me, services, portfolio" etc.
+$font2: 'Poppins', sans-serif;      // ← Used by default.
+
+
+// Font Sizes
+
+$nano: 11px; 
+$micro: 12px;  
+$tiny: 13px;   
+$xxs: 14px;    
+$xs: 15px;   
+$s: 16px;    
+$sm: 18px;   
+$m: 20px;
+$ml: 25px;
+$l: 30px;
+$xl: 40px;
+$xxl: 50px;
+$xxxl: 60px;
+
+
+// Font sizes used for moving headline in <Header>  ( " I am Designer, Developer...)
+
+$small: 3rem;
+$medium: 4.4rem;  // ← Used in @media (min-width: 768px)
+$large: 6rem;     // ← Used in @media (min-width: 1170px)
+
+
+// Font weight
+
+$fw2: 200;
+$fw3: 300;
+$fw4: 400;
+$fw5: 500;
+$fw6: 600;
+$fw7: 700;
+$fw8: 800;
+$fw9: 900;
+
+
+// Media
+
+$media-s: 768px;
+$media-m: 992px;
+$media-l: 1200px;
+
+
+// Colors 
+
+$white1: #fff;            // ←  used in nav.
+$white2: #eee;            // ←  "Button:hover" color.
+$white3: #ccc;            // ←  used in Blog ".min-header h5"
+$white4: #ddd;            // ←  used in Blog ".min-header a"
+$lgrey1: #aebcb9;         // ←  used in ".cd-headline <span>::after" as background color.
+$lgrey2: #999;            // ←  ".hero .content .sub-title".
+$lgrey3: #888;            // ←  ".clients .citem span".
+$lgrey4: #748182;         // ←  <p> tag.
+$grey1: #777;             // ←  used in Blog ".blogs .posts .post .content .meta li "
+$grey2: #343434;          // ←  "$font2" in <body>  &  "buton-bg:hover"
+$grey3: #222;             // ←  ".portfolio .filtering span"
+$dgrey: #1c1c1c;          // ←  "button:hover" background and nav.
+$black: #000;             // ←  ".portfolio .item-img .icon i:hover"
+$bg-gray: #f7f7f7;        // ←  gray background in Services, Testimonials, Our Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
